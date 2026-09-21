@@ -9,7 +9,7 @@
                                     |___/                                     
 ```
 
-# 🐍 Python 1 & Python 2
+# 🐍 Python 1 y Python 2
 
 Bienvenido a mi repositorio de aprendizaje de Python. Mi nombre es Hugo Muro y este espacio documenta mi progreso, contiene mis apuntes, ejercicios prácticos y proyectos mientras domino este lenguaje de programación, cabe recalcar que este aprendizaje es en base a mis dos cursos de Cisco, llamados Python 1 y Python 2.
 
